@@ -123,6 +123,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nunomaduro/collision" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/directorytree/ldaprecord" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/directorytree/ldaprecord-laravel" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tightenco/collect" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
